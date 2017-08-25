@@ -1,0 +1,142 @@
+GIT-EXTRAS(1)                     Git Extras                     GIT-EXTRAS(1)
+
+NNAAMMEE
+       ggiitt--eexxttrraass - Awesome GIT utilities
+
+SSYYNNOOPPSSIISS
+       ggiitt--eexxttrraass [-v,--version] [-h,--help] [update]
+
+OOPPTTIIOONNSS
+       -v, --version
+
+       Show git-extras version number.
+
+       -h, --help
+
+       Show this help. This option can also be used for any of the extras com‐
+       mands.
+
+       update
+
+       Self update.
+
+CCOOMMMMAANNDDSS
+       ·   ggiitt--aalliiaass((11)) Define, search and show aliases
+
+       ·   ggiitt--aarrcchhiivvee--ffiillee((11)) Export the current HEAD of the  git  repository
+           to a archive
+
+       ·   ggiitt--aauutthhoorrss((11)) Generate authors report
+
+       ·   ggiitt--bbaacckk((11)) Undo and Stage latest commits
+
+       ·   ggiitt--bbuugg((11)) Create bug branch
+
+       ·   ggiitt--cchhaannggeelloogg((11)) Generate a changelog report
+
+       ·   ggiitt--cchhoorree((11)) Create chore branch
+
+       ·   ggiitt--cclleeaarr((11)) Rigorously clean up a repository
+
+       ·   ggiitt--ccoommmmiittss--ssiinnccee((11)) Show commit logs since some date
+
+       ·   ggiitt--ccoonnttrriibb((11)) Show user´s contributions
+
+       ·   ggiitt--ccoouunntt((11)) Show commit count
+
+       ·   ggiitt--ccrreeaattee--bbrraanncchh((11)) Create branches
+
+       ·   ggiitt--ddeelleettee--bbrraanncchh((11)) Delete branches
+
+       ·   ggiitt--ddeelleettee--mmeerrggeedd--bbrraanncchheess((11)) Delete merged branches
+
+       ·   ggiitt--ddeelleettee--ssuubbmmoodduullee((11)) Delete submodules
+
+       ·   ggiitt--ddeelleettee--ttaagg((11)) Delete tags
+
+       ·   ggiitt--ddeellttaa((11)) Lists changed files
+
+       ·   ggiitt--eeffffoorrtt((11)) Show effort statistics on file(s)
+
+       ·   ggiitt--ffeeaattuurree((11)) Create/Merge feature branch
+
+       ·   ggiitt--ffoorrkk((11)) Fork a repo on github
+
+       ·   ggiitt--ffrreesshh--bbrraanncchh((11)) Create fresh branches
+
+       ·   ggiitt--gghh--ppaaggeess((11)) Create the GitHub Pages branch
+
+       ·   ggiitt--ggrraafftt((11)) Merge and destroy a given branch
+
+       ·   ggiitt--gguuiilltt((11)) calculate change between two revisions
+
+       ·   ggiitt--iiggnnoorree--iioo((11)) Get sample gitignore file
+
+       ·   ggiitt--iiggnnoorree((11)) Add .gitignore patterns
+
+       ·   ggiitt--iinnffoo((11)) Returns information on current repository
+
+       ·   ggiitt--lliinnee--ssuummmmaarryy((11)) Show repository summary by line
+
+       ·   ggiitt--llooccaall--ccoommmmiittss((11)) List local commits
+
+       ·   ggiitt--lloocckk((11)) Lock a file excluded from version control
+
+       ·   ggiitt--lloocckkeedd((11)) ls files that have been locked
+
+       ·   ggiitt--mmeerrggee--iinnttoo((11)) Merge one branch into another
+
+       ·   ggiitt--mmeerrggee--rreeppoo((11)) Merge two repo histories
+
+       ·   ggiitt--mmiissssiinngg((11)) Show commits missing from another branch
+
+       ·   ggiitt--pprr((11)) Checks out a pull request locally
+
+       ·   ggiitt--ppssyykkoorreebbaassee((11)) Rebase a branch with a merge commit
+
+       ·   ggiitt--rreebbaassee--ppaattcchh((11)) Rebases a patch
+
+       ·   ggiitt--rreeffaaccttoorr((11)) Create refactor branch
+
+       ·   ggiitt--rreelleeaassee((11)) Commit, tag and push changes to the repository
+
+       ·   ggiitt--rreennaammee--ttaagg((11)) Rename a tag
+
+       ·   ggiitt--rreeppll((11)) git read-eval-print-loop
+
+       ·   ggiitt--rreesseett--ffiillee((11)) Reset one file
+
+       ·   ggiitt--rroooott((11)) show path of root
+
+       ·   ggiitt--ssccpp((11)) Copy files to SSH compatible ggiitt--rreemmoottee
+
+       ·   ggiitt--sseedd((11)) replace patterns in git-controlled files
+
+       ·   ggiitt--sseettuupp((11)) Set up a git repository
+
+       ·   ggiitt--sshhooww--mmeerrggeedd--bbrraanncchheess((11)) Show merged branches
+
+       ·   ggiitt--sshhooww--ttrreeee((11)) show branch tree of commit history
+
+       ·   ggiitt--sshhooww--uunnmmeerrggeedd--bbrraanncchheess((11)) Show unmerged branches
+
+       ·   ggiitt--ssqquuaasshh((11)) Import changes from a branch
+
+       ·   ggiitt--ssuummmmaarryy((11)) Show repository summary
+
+       ·   ggiitt--ttoouucchh((11)) Touch and add file to the index
+
+       ·   ggiitt--uunnddoo((11)) Remove latest commits
+
+       ·   ggiitt--uunnlloocckk((11)) Unlock a file excluded from version control
+
+AAUUTTHHOORR
+       Written by Tj Holowaychuk <_t_j_@_v_i_s_i_o_n_-_m_e_d_i_a_._c_a>
+
+RREEPPOORRTTIINNGG BBUUGGSS
+       <_h_t_t_p_s_:_/_/_g_i_t_h_u_b_._c_o_m_/_t_j_/_g_i_t_-_e_x_t_r_a_s_/_i_s_s_u_e_s>
+
+SSEEEE AALLSSOO
+       <_h_t_t_p_s_:_/_/_g_i_t_h_u_b_._c_o_m_/_t_j_/_g_i_t_-_e_x_t_r_a_s>
+
+                                 January 2016                    GIT-EXTRAS(1)
